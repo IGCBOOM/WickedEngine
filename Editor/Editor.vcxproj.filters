@@ -195,6 +195,9 @@
     <ClCompile Include="LayerWindow.cpp">
       <Filter>Code</Filter>
     </ClCompile>
+    <ClCompile Include="ModelImporter_Assimp.cpp">
+      <Filter>Code</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="small.ico">
